@@ -81,16 +81,18 @@ Tables generated the largest sub-category loss at approximately
 
 ## Project Structure
 
+## Project Structure
+
+```text
 ecommerce-sales-analysis/
 │
 ├── data/
 │   ├── raw/
 │   │   └── SampleSuperstore.csv
-│   │
 │   └── cleaned/
 │       └── superstore_clean.csv
 │
-├── python/ 
+├── python/
 │   ├── 01_data_cleaning.py
 │   └── 02_eda.py
 │
@@ -112,12 +114,10 @@ ecommerce-sales-analysis/
 ├── analysis/
 │   └── findings.md
 │
-├── screenshots/
-│   └── dashboard.png
-│
-├── README.md
-│
-└── .gitignore
+├── .gitignore
+├── requirements.txt
+└── README.md
+```
 
 ## Conclusion
 
