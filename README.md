@@ -76,7 +76,8 @@ Tables generated the largest sub-category loss at approximately
 
 ## Dashboard
 
-![alt text](image.png)
+<img width="1300" height="727" alt="Screenshot 2026-09-24 122950" src="https://github.com/user-attachments/assets/c4144520-6a1d-4cf4-9842-6d0cb0799d18" />
+
 
 ## Project Structure
 
